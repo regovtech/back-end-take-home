@@ -22,7 +22,7 @@ Develop a backend app that exposes APIs for managing inventory with the followin
 4. Unstock
 5. List product
 6. List warehouses
-7. List warehouse
+7. Search warehouse
 8. Delete product
 9. Delete Warehouse
 8. Manage users
@@ -35,7 +35,7 @@ Develop a backend app that exposes APIs for managing inventory with the followin
   - Add product
   - List products
   - Add warehouse
-  - List warehouse
+  - Search warehouse
   - List warehouses
   - Delete product
   - Delete warehouse
