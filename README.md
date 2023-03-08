@@ -1,13 +1,12 @@
 <p align="center"> 
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
-# { "developer": "Back-end" }
 
-Hey! We are excited that you are interested in joining the team at Regov Technologies.
+# Welcome to this PopQuiz!
 
-We feel that the best place to really show us your skills is somewhere you feel comfortable. This test should not take you a long amount of time to complete.
+# { "Engineer": "Backend" }
 
-This take home test is used to determine how you go about solving problems logically, as well as building out easy to use, API End points. This test is open to interpretation and implementation.
+Hey! We are excited that you are interested in joining the team at Regov Technologies. Before we go to the next step kindly complete the following popquiz.
 
 ### Coding Challenge
 
@@ -48,26 +47,14 @@ Feel free to go above and beyond if you have ideas for extra features!
 
 - Use Node.js | Python
 - Dockerise the application
-- The languages, frameworks and libraries mentioned are recommendations only, you are free to use whatever you are comfortable with.
-- The project structure is up to your decision.
-- You are recommended to use git commits in a logical manner to demonstrate the development progress
-- Writing tests and adhering to development standards/conventions will attract extra points.
-- Writing design documents will attract extra points :)
+- Apply your preferred coding structure
+- Unit testing is an added advantage
+- Add README
+- Technical Design Document will attract extra points :)
 
-### The HandOver
+## Submission process
 
-- Send your implementation in Git Repo.
+1. Email your complete work to techchallenge@regovtech.com & paul.agada@regovtech.com
+2. Submit Github Repo
 
-### The Review
-
-Please include a README file with a quick description of your solution, the thought process, and any points you'd like to highlight. It will help us during the review, where we'll look at:
-
-- VCS history
-- the project structure,
-- the project architecture,
-- coding practices,
-- consistent coding style and formatting,
-- namings and naming conventions,
-- good use of comments,
-- lint warnings and code smells
-- unit & integration tests
+Good Luck!
